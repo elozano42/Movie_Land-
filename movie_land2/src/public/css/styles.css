@@ -1,0 +1,91 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
+
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #39d1b4;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a.navbar-brand {
+    color: white;
+}
+
+a.navbar-brand:hover {
+    color: white;
+}
+
+nav {
+    background-color: #202020;
+    position: fixed;
+}
+
+a.title {
+    color: #fff;
+}
+
+a.title:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    background-color: #202020;
+}
+
+h2 {
+    font-weight: 300;
+    line-height: 40px;
+    color: #39d1b4;
+}
+
+.form-group {
+    width: 50%;
+    border: none; 
+    background-color: none; 
+}
+
+
+form {
+    color: black;
+    width: 50%;
+}
+
+button.btn {
+    color: white; 
+    background-color: #39d1b4 ;
+}
+
+button.btn:hover {
+    color: white; 
+    background-color: #23c2a5 ;
+}
+
+a.btn {
+    color: white; 
+    background-color: #39d1b4 ;
+}
+
+a.btn:hover {
+    color: white; 
+    background-color: #23c2a5 ;
+}
+
+label.text {
+    color: #39d1b4; 
+}
+
+.card-header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202020;
+    font-size: 20px;
+    text-align: center;
+}
